@@ -1,0 +1,21 @@
+---
+
+- taxonomy: 常用
+  icon: fa-star
+  links: 
+    - title: NAS(外网访问)
+      logo: assets/images/logos/nassystem.png
+      url: https://sysu-gpl.cn4.quickconnect.cn/
+      description: 资源中心（推荐使用drive）
+    - title: NAS(内网访问)
+      logo: assets/images/logos/nassystem.png
+      url: http://172.22.78.14:5000
+      description: 资源中心（推荐使用drive）
+      #title: 二维码演示
+      #qrcode: assets/images/webstack-hugo-qrcode.png
+      #logo: assets/images/logo-collapsed@2x.png
+      #description: 二维码演示，新增二维码，手机扫一扫
+    - title: 火炬披萨中心(内网访问)
+      logo: assets/images/logos/torchwood.png
+      url: http://172.22.78.14:3389
+      description: Torchwood & S.P.S 主页
