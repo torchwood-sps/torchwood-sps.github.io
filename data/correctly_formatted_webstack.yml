@@ -1,0 +1,114 @@
+- icon: fa-star-o
+  links:
+  - description: 资源中心（推荐使用drive）
+    logo: assets/images/logos/nassystem.png
+    title: NAS(外网访问)
+    url: https://sysu-gpl.cn4.quickconnect.cn/
+  - description: 资源中心（推荐使用drive）
+    logo: assets/images/logos/nassystem.png
+    title: NAS(内网访问)
+    url: http://172.22.78.14:5000
+  - description: Torchwood & S.P.S 主页
+    logo: assets/images/logos/torchwood.png
+    title: 火炬披萨中心(内网访问)
+    url: http://172.22.78.14:3389
+  taxonomy: 常用
+- icon: fa-newspaper-o
+  links:
+  - logo: assets/images/logos/sysu.png
+    title: 中山大学统一门户
+    url: https://portal.sysu.edu.cn/
+  - logo: assets/images/logos/sysu.png
+    title: 中山大学教务部
+    url: http://jwb.sysu.edu.cn/
+  - logo: assets/images/logos/sysu.png
+    title: 爱物理
+    url: http://lovephysics.sysu.edu.cn/
+  - logo: assets/images/logos/seelight.ico
+    title: Seelight
+    url: http://seelight.net/
+  taxonomy: 鸭大
+- icon: fa-lightbulb-o
+  links:
+  - logo: assets/images/logos/icon_page.png
+    title: 竞赛简介 — CUPTGuide 文档
+    url: https://cupt.readthedocs.io/zh_CN/latest/2.%20Intro_Tournament.html#id5
+  - logo: assets/images/logos/timer.png
+    title: CUPT Timer
+    url: https://pttimer.site/
+  - logo: assets/images/logos/GYPT.png
+    title: GYPT Aufgaben
+    url: https://gypt.org/aufgaben.html
+  - logo: assets/images/logos/caypt.jpg
+    title: CaYPT – Stem Fellowship
+    url: https://www.stemfellowship.org/challenges-2/caypt/
+  taxonomy: CUPT
+- icon: fa-bookmark
+  links:
+  - logo: ''
+    title: 百度
+    url: https://www.baidu.com/
+  - logo: ''
+    title: GitHub
+    url: https://github.com/
+  - logo: ''
+    title: Notion
+    url: https://www.notion.so/
+  - logo: ''
+    title: wolai
+    url: https://www.wolai.com/
+  - logo: ''
+    title: Overleaf
+    url: https://cn.overleaf.com/
+  - logo: ''
+    title: ProcessOn
+    url: https://www.processon.com/
+  - logo: ''
+    title: Z-Library
+    url: https://zlibrary-asia.se/
+  - logo: ''
+    title: 维基百科
+    url: https://en.wikipedia.org/
+  - logo: ''
+    title: Google学术镜像
+    url: https://sc.panda321.com/
+  - logo: ''
+    title: Sci-Hub
+    url: https://www.sci-hub.st/
+  - logo: ''
+    title: 中山大学图书馆
+    url: https://library.sysu.edu.cn/
+  - logo: ''
+    title: 中国知网
+    url: https://www.cnki.net/
+  - logo: ''
+    title: 学习版软件
+    url: https://mp.weixin.qq.com/s/gl8PBulylLUoWHJFXAZ0jQ
+  - logo: ''
+    title: COMSOL案例
+    url: https://cn.comsol.com/models
+  - logo: ''
+    title: 析模界-工程仿真的世界
+    url: https://www.topcfd.cn/
+  - logo: ''
+    title: '[CFD之道]流沙[胡坤] - 博客园'
+    url: https://www.cnblogs.com/LSCAX/
+  - logo: ''
+    title: Awesome-AI奶酪清单
+    url: https://github.com/runningcheese/Awesome-ChatGPT
+  - logo: ''
+    title: Mathpix
+    url: https://mathpix.com/
+  - logo: ''
+    title: ChatGPT
+    url: https://chat.openai.com/
+  - logo: ''
+    title: ChatGPT 学术优化
+    url: https://www.llm-aca.site/
+  - logo: ''
+    title: ChatPDF
+    url: https://www.chatpdf.com/
+  - logo: ''
+    title: QuillBot AI
+    url: https://quillbot.com/
+  taxonomy: 新添加

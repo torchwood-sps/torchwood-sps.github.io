@@ -1,0 +1,195 @@
+- taxonomy: 书签栏
+  icon: fa-newspaper-o
+  links:
+  - title: 百度
+    logo: assets/images/logos/default.png
+    url: https://www.baidu.com/
+  - title: 中山大学统一门户
+    logo: assets/images/logos/default.png
+    url: https://portal.sysu.edu.cn/
+  - title: 中山大学教务部
+    logo: assets/images/logos/default.png
+    url: http://jwb.sysu.edu.cn/
+  - title: 爱物理
+    logo: assets/images/logos/default.png
+    url: http://lovephysics.sysu.edu.cn/
+  - title: Seelight
+    logo: assets/images/logos/default.png
+    url: http://seelight.net/
+  - title: 竞赛简介 — CUPTGuide 文档
+    logo: assets/images/logos/default.png
+    url: https://cupt.readthedocs.io/zh_CN/latest/2.%20Intro_Tournament.html#id5
+  - title: CUPT Timer
+    logo: assets/images/logos/default.png
+    url: https://pttimer.site/
+  - title: GYPT Aufgaben
+    logo: assets/images/logos/default.png
+    url: https://gypt.org/aufgaben.html
+  - title: CaYPT – Stem Fellowship
+    logo: assets/images/logos/default.png
+    url: https://www.stemfellowship.org/challenges-2/caypt/
+  - title: GitHub
+    logo: assets/images/logos/default.png
+    url: https://github.com/
+  - title: Notion
+    logo: assets/images/logos/default.png
+    url: https://www.notion.so/
+  - title: wolai
+    logo: assets/images/logos/default.png
+    url: https://www.wolai.com/
+  - title: Overleaf
+    logo: assets/images/logos/default.png
+    url: https://cn.overleaf.com/
+  - title: ProcessOn
+    logo: assets/images/logos/default.png
+    url: https://www.processon.com/
+  - title: Z-Library
+    logo: assets/images/logos/default.png
+    url: https://zlibrary-asia.se/
+  - title: 维基百科
+    logo: assets/images/logos/default.png
+    url: https://en.wikipedia.org/
+  - title: Google学术镜像
+    logo: assets/images/logos/default.png
+    url: https://sc.panda321.com/
+  - title: Sci-Hub
+    logo: assets/images/logos/default.png
+    url: https://www.sci-hub.st/
+  - title: 中山大学图书馆
+    logo: assets/images/logos/default.png
+    url: https://library.sysu.edu.cn/
+  - title: 中国知网
+    logo: assets/images/logos/default.png
+    url: https://www.cnki.net/
+  - title: 学习版软件
+    logo: assets/images/logos/default.png
+    url: https://mp.weixin.qq.com/s/gl8PBulylLUoWHJFXAZ0jQ
+  - title: COMSOL案例
+    logo: assets/images/logos/default.png
+    url: https://cn.comsol.com/models
+  - title: 析模界-工程仿真的世界
+    logo: assets/images/logos/default.png
+    url: https://www.topcfd.cn/
+  - title: '[CFD之道]流沙[胡坤] - 博客园'
+    logo: assets/images/logos/default.png
+    url: https://www.cnblogs.com/LSCAX/
+  - title: Awesome-AI奶酪清单
+    logo: assets/images/logos/default.png
+    url: https://github.com/runningcheese/Awesome-ChatGPT
+  - title: Mathpix
+    logo: assets/images/logos/default.png
+    url: https://mathpix.com/
+  - title: ChatGPT
+    logo: assets/images/logos/default.png
+    url: https://chat.openai.com/
+  - title: ChatGPT 学术优化
+    logo: assets/images/logos/default.png
+    url: https://www.llm-aca.site/
+  - title: ChatPDF
+    logo: assets/images/logos/default.png
+    url: https://www.chatpdf.com/
+  - title: QuillBot AI
+    logo: assets/images/logos/default.png
+    url: https://quillbot.com/
+- taxonomy: 中大
+  icon: fa-newspaper-o
+  links:
+  - title: 中山大学统一门户
+    logo: assets/images/logos/default.png
+    url: https://portal.sysu.edu.cn/
+  - title: 中山大学教务部
+    logo: assets/images/logos/default.png
+    url: http://jwb.sysu.edu.cn/
+  - title: 爱物理
+    logo: assets/images/logos/default.png
+    url: http://lovephysics.sysu.edu.cn/
+  - title: Seelight
+    logo: assets/images/logos/default.png
+    url: http://seelight.net/
+- taxonomy: CUPT
+  icon: fa-newspaper-o
+  links:
+  - title: 竞赛简介 — CUPTGuide 文档
+    logo: assets/images/logos/default.png
+    url: https://cupt.readthedocs.io/zh_CN/latest/2.%20Intro_Tournament.html#id5
+  - title: CUPT Timer
+    logo: assets/images/logos/default.png
+    url: https://pttimer.site/
+  - title: GYPT Aufgaben
+    logo: assets/images/logos/default.png
+    url: https://gypt.org/aufgaben.html
+  - title: CaYPT – Stem Fellowship
+    logo: assets/images/logos/default.png
+    url: https://www.stemfellowship.org/challenges-2/caypt/
+- taxonomy: 效率
+  icon: fa-newspaper-o
+  links:
+  - title: GitHub
+    logo: assets/images/logos/default.png
+    url: https://github.com/
+  - title: Notion
+    logo: assets/images/logos/default.png
+    url: https://www.notion.so/
+  - title: wolai
+    logo: assets/images/logos/default.png
+    url: https://www.wolai.com/
+  - title: Overleaf
+    logo: assets/images/logos/default.png
+    url: https://cn.overleaf.com/
+  - title: ProcessOn
+    logo: assets/images/logos/default.png
+    url: https://www.processon.com/
+- taxonomy: 资源库
+  icon: fa-newspaper-o
+  links:
+  - title: Z-Library
+    logo: assets/images/logos/default.png
+    url: https://zlibrary-asia.se/
+  - title: 维基百科
+    logo: assets/images/logos/default.png
+    url: https://en.wikipedia.org/
+  - title: Google学术镜像
+    logo: assets/images/logos/default.png
+    url: https://sc.panda321.com/
+  - title: Sci-Hub
+    logo: assets/images/logos/default.png
+    url: https://www.sci-hub.st/
+  - title: 中山大学图书馆
+    logo: assets/images/logos/default.png
+    url: https://library.sysu.edu.cn/
+  - title: 中国知网
+    logo: assets/images/logos/default.png
+    url: https://www.cnki.net/
+  - title: 学习版软件
+    logo: assets/images/logos/default.png
+    url: https://mp.weixin.qq.com/s/gl8PBulylLUoWHJFXAZ0jQ
+  - title: COMSOL案例
+    logo: assets/images/logos/default.png
+    url: https://cn.comsol.com/models
+  - title: 析模界-工程仿真的世界
+    logo: assets/images/logos/default.png
+    url: https://www.topcfd.cn/
+  - title: '[CFD之道]流沙[胡坤] - 博客园'
+    logo: assets/images/logos/default.png
+    url: https://www.cnblogs.com/LSCAX/
+- taxonomy: 工具
+  icon: fa-newspaper-o
+  links:
+  - title: Awesome-AI奶酪清单
+    logo: assets/images/logos/default.png
+    url: https://github.com/runningcheese/Awesome-ChatGPT
+  - title: Mathpix
+    logo: assets/images/logos/default.png
+    url: https://mathpix.com/
+  - title: ChatGPT
+    logo: assets/images/logos/default.png
+    url: https://chat.openai.com/
+  - title: ChatGPT 学术优化
+    logo: assets/images/logos/default.png
+    url: https://www.llm-aca.site/
+  - title: ChatPDF
+    logo: assets/images/logos/default.png
+    url: https://www.chatpdf.com/
+  - title: QuillBot AI
+    logo: assets/images/logos/default.png
+    url: https://quillbot.com/

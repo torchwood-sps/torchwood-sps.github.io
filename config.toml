@@ -1,0 +1,16 @@
+baseURL = 'http://example.org/'
+languageCode = 'zh-CN'
+title = '火炬披萨导航页'
+theme = 'webstack-hugo'
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+copyright = ''
+favicon: /img1/myfavicon.ico
+[params]
+  author = 'iplaycode'
+  description = 'Webstack Hugo'
+[params.search]
+  enable = true
+[params.darkmode]
+  enable = false

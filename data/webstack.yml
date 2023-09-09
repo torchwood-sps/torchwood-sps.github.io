@@ -1,0 +1,128 @@
+---
+
+- taxonomy: 常用
+  icon: fa-star-o
+  links: 
+    - title: NAS(外网访问)
+      logo: assets/images/logos/nassystem.png
+      url: https://sysu-gpl.cn4.quickconnect.cn/
+      description: 资源中心（推荐使用drive）
+    - title: NAS(内网访问)
+      logo: assets/images/logos/nassystem.png
+      url: http://172.22.78.14:5000
+      description: 资源中心（推荐使用drive）
+      #title: 二维码演示
+      #qrcode: assets/images/webstack-hugo-qrcode.png
+      #logo: assets/images/logo-collapsed@2x.png
+      #description: 二维码演示，新增二维码，手机扫一扫
+    - title: 火炬披萨中心(内网访问)
+      logo: assets/images/logos/torchwood.png
+      url: http://172.22.78.14:3389
+      description: Torchwood & S.P.S 主页
+
+- taxonomy: 鸭大
+  icon: fa-newspaper-o
+  links: 
+    - title: 中山大学统一门户
+      logo: assets/images/logos/sysu.png
+      url: https://portal.sysu.edu.cn/
+    - title: 中山大学教务部
+      logo: assets/images/logos/sysu.png
+      url: http://jwb.sysu.edu.cn/
+    - title: 爱物理
+      logo: assets/images/logos/sysu.png
+      url: http://lovephysics.sysu.edu.cn/
+    - title: Seelight
+      logo: assets/images/logos/seelight.ico
+      url: http://seelight.net/
+
+- taxonomy: 效率
+  icon: fa-lightbulb-o
+  links: 
+    - title: GitHub
+      logo: assets/images/logos/github.png
+      url: https://github.com/
+    - title: Notion
+      logo: assets/images/logos/notion.png
+      url: https://www.notion.so/
+    - title: wolai
+      logo: assets/images/logos/wolai.png
+      url: https://www.wolai.com/
+    - title: Overleaf
+      logo: assets/images/logos/overleaf.jpg
+      url: https://cn.overleaf.com/
+    - title: ProcessOn
+      logo: assets/images/logos/processon.jpg
+      url: https://www.processon.com/
+
+- taxonomy: 资源库
+  icon: fa-thumbs-up
+  links: 
+    - title: Z-Library
+      logo: assets/images/logos/zlib.jpg
+      url: https://zlibrary-asia.se/
+    - title: 维基百科
+      logo: assets/images/logos/wiki.png
+      url: https://en.wikipedia.org/
+    - title: Google学术镜像
+      logo: assets/images/logos/google.jpg
+      url: https://sc.panda321.com/
+    - title: Sci-Hub
+      logo: assets/images/logos/scihub.jpg
+      url: https://www.sci-hub.st/
+    - title: 中山大学图书馆
+      logo: assets/images/logos/sysu.png
+      url: https://library.sysu.edu.cn/
+    - title: 中国知网
+      logo: assets/images/logos/cnki.png
+      url: https://www.cnki.net/
+    - title: 学习版软件
+      logo: assets/images/logos/icon_page.png
+      url: https://mp.weixin.qq.com/s/gl8PBulylLUoWHJFXAZ0jQ
+    - title: COMSOL案例
+      logo: assets/images/logos/comsol.png
+      url: https://cn.comsol.com/models
+    - title: 析模界-工程仿真的世界
+      logo: assets/images/logos/sim.png
+      url: https://www.topcfd.cn/
+    - title: '[CFD之道]流沙[胡坤] - 博客园'
+      logo: assets/images/logos/icon_page.png
+      url: https://www.cnblogs.com/LSCAX/
+
+- taxonomy: CUPT
+  icon: fa-pencil
+  links: 
+    - title: 竞赛简介 — CUPTGuide 文档
+      logo: assets/images/logos/icon_page.png
+      url: https://cupt.readthedocs.io/zh_CN/latest/2.%20Intro_Tournament.html#id5
+    - title: CUPT Timer
+      logo: assets/images/logos/timer.png
+      url: https://pttimer.site/
+    - title: GYPT Aufgaben
+      logo: assets/images/logos/GYPT.png
+      url: https://gypt.org/aufgaben.html
+    - title: CaYPT – Stem Fellowship
+      logo: assets/images/logos/caypt.jpg
+      url: https://www.stemfellowship.org/challenges-2/caypt/
+
+- taxonomy: AI工具
+  icon: fa-diamond
+  links: 
+    - title: Awesome-AI奶酪清单
+      logo: assets/images/logos/github.png
+      url: https://github.com/runningcheese/Awesome-ChatGPT
+    - title: Mathpix
+      logo: assets/images/logos/mathpix.png
+      url: https://mathpix.com/
+    - title: ChatGPT
+      logo: assets/images/logos/gpt.jpg
+      url: https://chat.openai.com/
+    - title: ChatGPT 学术优化
+      logo: assets/images/logos/gpt.jpg
+      url: https://www.llm-aca.site/
+    - title: ChatPDF
+      logo: assets/images/logos/chatpdf.jpg
+      url: https://www.chatpdf.com/
+    - title: QuillBot AI
+      logo: assets/images/logos/quillbot.jpg
+      url: https://quillbot.com/
